@@ -1,0 +1,406 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    display: flex;
+    justify-content: space-around;
+}
+.prin1 footer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10%;
+}
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: 10%;
+    font-size: 10px;
+}
+.divi
+{
+    color: black;
+}
+#principale1
+{
+    padding-top: 50px;
+    display: flex;
+}
+#imag
+{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 650px;
+    border-width: 5px;
+    border: none;
+}
+.prin1
+{
+    width: 50%;
+    margin-right: 50px;
+}
+#nbr
+{
+    padding: 5%;
+    font-size: 50px;
+}
+.nbc
+{
+    text-align: center;
+}
+.prin1 p
+{
+    padding: 5%;
+}
+button
+{
+    padding: 7px;
+    padding-right: 5%;
+    padding-left: 5%;
+    border-radius: 20px;
+    margin-left: 4%;
+    border: none;
+}
+h4
+{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding-top: 5%;
+}
+h2
+{
+    margin-top: 21px;
+}
+.fin
+{
+    width: 100%;
+}
+#fi
+{
+    width: 100%;
+}
+img
+{
+    width: 500px;
+    border-style: solid;
+    border-color: white;
+}
+#our
+{
+    text-align: center;
+    padding-bottom: 30px;
+}
+#pa
+{
+    text-align: center;
+}
+#cadre
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+#cadre h4
+{
+    text-align: center;
+}
+#cadre div
+{
+    border-radius: 10px;
+    margin: 1%;
+    padding-bottom: 3%;
+    padding-top: 2%;
+    padding-left: 3px;
+    padding-right: 3px;
+    width: 20%;
+}
+#principale2
+{
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+.ima
+{
+    height: 45px;
+    width: 45px;
+}
+.ima img
+{
+    height: 55px;
+    width: 55px;
+    margin-left: 89px;
+    border-width: 5px;
+}
+header h2
+{
+    margin-right: 730px;
+}
+#imag img
+{
+    height: 550px;
+    width: 600px;
+}
+#cadre div p
+{
+    text-align: center;
+}
+#our span
+{
+    font-size: 50px;
+}
+#cadre1
+{
+    box-shadow: 1px -1px 1px -1px black;
+}
+#cadre2
+{
+    box-shadow: 1px -1px 1px -1px black;
+}
+#cadre3
+{
+    box-shadow: 1px -1px 1px -1px black;
+}
+#cadre4
+{
+    box-shadow: 1px -1px 1px -1px black;
+}
+#img74
+{
+    height: 40%;
+    background-color: white;
+}
+#contact
+{
+    width: 30%;
+    position: absolute;
+    padding: 2%;
+    margin-left:  7%;
+}
+#img74 p, h4
+{
+    color: white;
+    width: 100%;
+}
+#img74 button
+{
+    color: black;
+}
+#principal3 div
+{
+    display: flex;
+    flex-direction: row;
+}
+#img74 h4
+{
+    margin-top: 0%;
+}
+#principale3 h2
+{
+    margin-top: 0%;
+}
+#img74 img
+{
+    width: 100%;
+    margin-top: 3%;
+}
+#so1
+{
+    color: black;
+}
+#principale3 h2 span
+{
+    font-size: 50px;
+}
+#principale3 h2
+{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-bottom: 2%;
+}
+#principale3 p
+{
+    padding-bottom: 2%;
+    padding-left: 10%;
+}
+#contact p
+{
+    margin-bottom: 5%;
+}
+#principale3 div
+{
+    justify-content: space-around;
+}
+#tree
+{
+    display: flex;
+}
+#principale3 div div
+{
+    width: 30%;
+    border-radius: 20px;
+}
+#principale3 div div img
+{
+    border-radius: 20px;
+    width: 100%;
+    height: 452px;
+}
+#thea1
+{
+    color: black;
+}
+#thea2
+{
+    font-size: 480px;
+    color:#1da8e434;
+}
+#thea3
+{
+    color: white;
+    margin-left: 10%;
+}
+#pad
+{
+    position: absolute;
+    display: block;
+    margin-top: 7%;
+}
+#pad h4
+{
+    margin-left: 10%;
+}
+#principale3
+{
+    padding-bottom: 5%;
+}
+#clie
+{
+    color: #1da8e4;
+}
+.wh
+{
+    color: black;
+}
+#what
+{
+    text-align: center;
+    padding-bottom: 30px;
+}
+#fond
+{
+    text-align: center;
+}
+#rates
+{
+    display: flex;
+    margin-top: 11%;
+    justify-content: space-around;
+    padding: 5%;
+    padding-left: 0%;
+
+}
+#principale4 h1 b
+{
+    font-size: 50px;
+}
+#rates div
+{
+    width: 45%;
+}
+#derpa
+{
+    color: white;
+    margin-left: 50%;
+}
+#principale4
+{
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+}
+#rates img
+{
+    width: 300px;
+    height: 270px;
+    margin-bottom: 30%;
+}
+#avdimg
+{
+    position: absolute;
+    margin-right: 10%;
+    margin-top: -12%;
+}
+#imgfo
+{
+    width: 30%;
+    padding-left: 10%;
+}
+#difo1
+{
+    padding: 2%;
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+#difo2
+{
+    text-align: center;
+    padding: 1%;
+}
+#pied
+{
+    color: white;
+}
+#difo21
+{
+    padding: 3%;
+    padding-bottom: 1%;
+}
+#difo22
+{
+    padding: 3%;
+    padding-top: 1%;
+}
+#dern
+{
+    padding-left: 8%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+#deve
+{
+    display: flex;
+    width: 20%;
+}
+.deve1
+{
+    border-radius: 20px;
+    height: 20px;
+    width: 20px;
+    padding: 1%;
+    margin: 2%;
+    margin-top: 4%;
+}
+.deve2
+{
+    border-radius: 20px;
+    height: 15px;
+    width: 15px;
+    padding: 1%;
+    margin: 2%;
+}
+#deve3
+{
+    display: flex;
+}

@@ -1,0 +1,82 @@
+body{
+    background-image: linear-gradient(to bottom, white, #75C5ED) ;
+}
+#nbr
+{
+    color: #75C5ED;
+}
+h2
+{
+    color: #75C5ED;
+}
+.fin h1
+{
+color: #1da8e4;
+}
+#b2
+{
+    background-color: #75C5ED;
+    color: white;
+}
+#fi
+{
+    background-color: #43c6cf;
+    color: white;
+}
+#principale2
+{
+    background-color: white;
+}
+#sp2
+{
+    color: #75C5ED;
+}
+#cadre2
+{
+    color: white;
+    background-color: #75C5ED;
+}
+.fin
+{
+    background-color: #acf0ef;
+}
+#contact
+{
+    background-color: #1da8e4;
+}
+#img button
+{
+    background-color: white;
+}
+#principale3
+{
+    background-color: white;
+}
+#principale4
+{
+    background-color: white;
+}
+#rates
+{
+    background-color: #1da8e4;
+}
+#difo1
+{
+    background-image: url(contact-1.jpg);
+}
+#pied
+{
+    background-color: #1da8e4;
+}
+#thea3
+{
+    background-color: #1da8e4;
+}
+.deve1
+{
+    background-color: white;
+}
+.deve2
+{
+    background-color: white;
+}
